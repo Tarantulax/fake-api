@@ -3,7 +3,7 @@
       {
         "id": 0,
         "title": "hello",
-        "desc": "aksiyon",
+        "type": "aksiyon",
         "imdb": "8.3",
         "date": "03 13 2013",
         "img": "https://randomwordgenerator.com/img/picture-generator/54e3dd404c5aaf14f1dc8460962e33791c3ad6e04e5074417c2f7dd6954cc1_640.jpg"
@@ -11,7 +11,7 @@
       {
         "id": 1,
         "title": "hell",
-        "desc": "dram",
+        "type": "dram",
         "imdb": "8.0",
         "date": "03 13 2010",
         "img": "https://randomwordgenerator.com/img/picture-generator/52e4d5414a55aa14f1dc8460962e33791c3ad6e04e507441722779d4944acd_640.jpg"
@@ -19,7 +19,7 @@
        {
         "id": 2,
         "title": "looking",
-        "desc": "korku",
+        "type": "korku",
         "imdb": "7.5",
         "date": "02 20 2021",
         "img": "https://randomwordgenerator.com/img/picture-generator/55e3d4404354a814f1dc8460962e33791c3ad6e04e507441722a72dc924ec4_640.jpg"
@@ -27,7 +27,7 @@
       {
         "id": 3,
         "title": "fall from edge",
-        "desc": "korku",
+        "type": "korku",
         "imdb": "9.5",
         "date": "03 03 2017",
         "img": "https://randomwordgenerator.com/img/picture-generator/52e9d7444351ad14f1dc8460962e33791c3ad6e04e507441722872d6954dc5_640.jpg"
@@ -35,7 +35,7 @@
       {
         "id": 4,
         "title": "skyfall",
-        "desc": "komedi",
+        "type": "komedi",
         "imdb": "9.0",
         "date": "07 07 2018",
         "img": "https://randomwordgenerator.com/img/picture-generator/54e2dc4a4c51aa14f1dc8460962e33791c3ad6e04e5074417c2f7dd59644c6_640.jpg"
