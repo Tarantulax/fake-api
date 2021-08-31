@@ -1,1 +1,51 @@
+{
+    "movies": [
+      {
+        "id": 0,
+        "title": "War Dogs",
+        "type": "Suç, Dram",
+        "desc":  " Miami'de yaşayan iki yakın arkadaş Efraim Diveroli (Jonah Hill) ve David Packouz (Miles Teller), genç yaşlarına rağmen küçük girişimlerin Amerikan Ordu ihalelerine girmelerine imkan tanıyan bir fırsatı kullanarak kendileri için önemli miktarda para kazanmış, günlerini gün etmektedirler. Ancak Afganistan Ordusu'nu silahlandırmak için girdikleri 300 milyon dolarlık ihaleyi kazanmaları, bütün gözlerin üzerlerine dönmesine neden olur. Bu süreçte oldukça karanlık insanlarla iş yapmaları ve tehlikeli maceraları atılmaları gerekecektir. Vurguncular filminin hikayesi, Diveroli ve Packouz'un gerçek öykülerinden esinlendi.",
+        "imdb": "7.1",
+        "date": "2016",
+        "img": "https://s2.filmmodu.org/uploads/movie/poster/3785/thumb_wJXku1YhMKeuzYNEHux7XtaYPsE.jpg"
+      }, 
+      {
+        "id": 1,
+        "title": "Joy",
+        "type": "Dram",
+        "desc":"Joy Mangano (Jennifer Lawrence) henüz küçüklüğünden itibaren hayal gücü çok gelişmiş olan, yeni icatlar üretme peşinde bir kadındır. Hayatında ve ailesinde yaşadığı zorluklara rağmen üretkenliğini hiç yitirmez; günlük yaşamda pratik konulara dair elinden her türlü iş gelir. Bu arada boşandığı eşi, sorunlu annesi, ilgi isteyen iki küçük çocuğu ve yarı belalı babasıyla "normal" bir hayat sürdürmeye çalışır. Fakat bir gün her şey canına tak eder ve Joy yarım bıraktığı hayallerinin bir ucundan tutmak için yeniden kolları sıvar. Attığı bu adım, bütün hayatını tamamen değiştirecektir.", 
+        "imdb": "6.6",
+        "date": "2015",
+        "img": "https://s2.filmmodu.org/uploads/movie/poster/3744/thumb_qkMqTe1V8TqSr5RehY2hb8j8sMz.jpg"
+      },
+       {
+        "id": 2,
+        "title": "American Sniper",
+        "type": "Aksiyon, Savaş",
+        "desc":"Bahriye Komandoları'na katılan ve Irak'ta 150'den fazla insanın ölümüne sebep olan Chris Kyle (1974-2013) isimli askerin aynı isimli kitabından uyarlanan filmde Chris Kyle'ın askeri kariyeri ve yaşadıkları anlatılacak.",  
+        "imdb": "7.3",
+        "date": "2014",
+        "img": "https://s1.filmmodu.org/uploads/movie/poster/576/thumb_svPHnYE7N5NAGO49dBmRhq0vDQ3.jpg"
+      },
+      {
+        "id": 3,
+        "title": "The Words",
+        "type": "Gerilim, Dram",
+        "desc":"Romantik dram filmi The Words bir sonraki büyük Amerikan romanının yayınlanmasından sonra uzun zamandır beklediği başarıyı kazanan genç yazar Rosy Jansen’ın hikayesini anlatıyor. Tek bir sorun vardır. Kitabı o yazmamıştır. Geçmişi peşini bir türlü bırakmayan Rosy’nin edebi yıldızı yükseldiği sırada, başka birinin eserini çalmasının ve hırsla başarıyı hayattaki en önemli iki kelimenin üstüne koymanın daha bedelini ödemek zorunda kalır...",
+        "imdb": "7.0",
+        "date": "2012",
+        "img": "https://s2.filmmodu.org/uploads/movie/poster/1274/thumb_iNDSm5wcdmtfKsMM7nE8XhJUBl7.jpg"
+      },
+      {
+        "id": 4,
+        "title": "The Hangover",
+        "type": "komedi",
+        "desc":" Filmde arkadaşlarının düğününden iki gün önce bekârlığa veda partisi vermek için Las Vegas'a giden dört arkadaş, sarhoş oldukları parti gecesinin sabahında odalarında bir kaplan, tavuklar ve dolapta ağlayan altı aylık bir bebek ile uyanırlar. Ayrıca damat ortada yoktur. Bir gece öncesine dair hiçbirşey hatırlamayan üç arkadaş ip uclarını takip ederek işlerin nerede kontrolden çıktığını bulmak zorundadırlar. En önemlisi de damadı bularak zamanında Los Angeles'a düğününe yetiştirmeleri gerekmektedir.", 
+        "imdb": "7.7",
+        "date": "2009",
+        "img": "https://s1.filmmodu.org/uploads/movie/poster/418/thumb_uluhlXubGu1VxU63X9VHCLWDAYP.jpg"
+      }
+    ]
+  }
+  
 
